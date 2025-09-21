@@ -1,0 +1,4 @@
+com\example\resumeanalyzer\controller\ResumeController.class
+com\example\resumeanalyzer\service\ResumeService.class
+com\example\resumeanalyzer\model\AnalysisResult.class
+com\example\resumeanalyzer\ResumeAnalyzerApplication.class
